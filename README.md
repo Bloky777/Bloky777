@@ -2,7 +2,7 @@
 
 **My name is Ivan Khurdakov.** 
 
-I am beginner analyst that inspired of data science.  
+I am beginner analyst inspired of data science.  
 I've worked as BI-analyst in food service industry and now I'm looking for new proposals.
   
 ## My tools :
