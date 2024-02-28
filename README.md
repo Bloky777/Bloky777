@@ -1,12 +1,11 @@
-### Hi there 👋
+## Hello everyone!🙌
 
-<!--
-**Bloky777/Bloky777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Ivan Khurdakov.** 
 
-Here are some ideas to get you started:
+I am beginner analyst that inspired of data science.  
+I've worked as BI-analyst in food service industry and now I'm looking for new proposals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ML/DL
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+## My tools :
+* Python (Pandas, Matplotlib, Numpy, Seaborn, Sklearn, ML);
+* PostgreSQL;
+* Power BI;
+* Jupyter Notebook;
+* MS Excel.
+## You can contact with me:  
+
+<a href="https://praktikum.yandex.ru/"><img width=3% src="https://stihi.ru/pics/2022/08/06/5126.jpg"></a><br><br>
+<p align=center>
